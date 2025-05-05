@@ -21,8 +21,7 @@ This project focuses on building a machine learning model to detect fraudulent c
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/your-username/creditcard-fraud-detection.git
-   cd creditcard-fraud-detection
+   git clone https://github.com/Sachin0613/NeuroNexus.git
    ```
 
 2. **Install Dependencies**
@@ -55,6 +54,7 @@ This project focuses on building a machine learning model to detect fraudulent c
   * Logistic Regression.
   * Random Forest Classifier.
 
+
 * **Evaluation Metrics**:
 
   * Confusion Matrix
@@ -62,6 +62,8 @@ This project focuses on building a machine learning model to detect fraudulent c
   * ROC-AUC Score
 
 ## Results
+
+[DataScienceWordFile.docx](https://github.com/user-attachments/files/20039855/DataScienceWordFile.docx)
 
 | Model               | Precision | Recall | F1-Score | ROC-AUC |
 | ------------------- | --------- | ------ | -------- | ------- |
