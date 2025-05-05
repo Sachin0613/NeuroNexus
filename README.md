@@ -82,6 +82,6 @@ This project is licensed under the MIT License.
 
 ## Author
 
-* **Your Name** – [GitHub](https://github.com/Sachin0613)
+* **Your Name** – [Sachin0613](https://github.com/Sachin0613)
 
 
